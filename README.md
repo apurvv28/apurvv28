@@ -23,6 +23,19 @@ Here are the tools and technologies I work with:
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apurvv28&show_icons=true&theme=radical" alt="Apurv's GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurvv28&theme=radical" alt="Apurv's GitHub streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvv28&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
 ## 💼 Projects
 
 Here are some of the things I’ve built. (All code available on this GitHub!)
