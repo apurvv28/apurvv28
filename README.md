@@ -29,7 +29,7 @@ Here are the tools and technologies I work with:
 
 or with a badge:
 
-![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/apurv28?theme=light&bgColor=ffffff)
+![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/apurv28?theme=dark&bgColor=ffffff)
 
 ---
 
