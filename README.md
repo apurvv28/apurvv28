@@ -23,10 +23,15 @@ Here are the tools and technologies I work with:
 
 ---
 
-## 📊 My LeetCode Stats
+## 🏆 LeetCode Achievements
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/apurv28?theme=dark)
-![LeetCode user](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https://leetcode-badge-sage.vercel.app/api/apurv28&logo=leetcode&logoColor=yellow)
+![LeetCode Stats](https://leetcard.jacoblin.cool/apurv28?theme=dark&font=baloo&ext=contest)
+
+### Badges
+![LeetCode Easy](https://leetcode-badge-sage.vercel.app/badge/apurv28/easy?theme=dark)
+![LeetCode Medium](https://leetcode-badge-sage.vercel.app/badge/apurv28/medium?theme=dark)
+![LeetCode Hard](https://leetcode-badge-sage.vercel.app/badge/apurv28/hard?theme=dark)
+
 
 ---
 
