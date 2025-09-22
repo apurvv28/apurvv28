@@ -23,6 +23,16 @@ Here are the tools and technologies I work with:
 
 ---
 
+## 📊 My LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/apurv28?theme=dark)
+
+or with a badge:
+
+![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/apurv28?theme=light&bgColor=ffffff)
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
