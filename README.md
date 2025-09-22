@@ -26,10 +26,7 @@ Here are the tools and technologies I work with:
 ## 📊 My LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/apurv28?theme=dark)
-
-or with a badge:
-
-![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/apurv28?theme=dark)
+![LeetCode user](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode&query=totalSolved&url=https://leetcode-badge-sage.vercel.app/api/apurv28&logo=leetcode&logoColor=yellow)
 
 ---
 
