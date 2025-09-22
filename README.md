@@ -25,14 +25,7 @@ Here are the tools and technologies I work with:
 
 ## 🏆 LeetCode Achievements
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/apurv28?theme=dark&font=baloo&ext=contest)
-
-### Badges
-![LeetCode Easy](https://leetcard.jacoblin.cool/apurv28?theme=dark&ext=problem-solved&difficulty=Easy)
-![LeetCode Medium](https://leetcard.jacoblin.cool/apurv28?theme=dark&ext=problem-solved&difficulty=Medium)
-![LeetCode Hard](https://leetcard.jacoblin.cool/apurv28?theme=dark&ext=problem-solved&difficulty=Hard)
-
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/apurv28?theme=dark&ext=contest)
 
 ---
 
