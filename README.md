@@ -47,9 +47,9 @@ Here are some of the things I’ve built. (All code available on this GitHub!)
 ## 📫 How to Reach Me
 
 - Email: `apurvsaktepar.work@gmail.com`  
-- LinkedIn: [Apurv Saktepar]((https://www.linkedin.com/in/apurv-saktepar-054a17281/))  
+- LinkedIn: [[Apurv Saktepar](https://www.linkedin.com/in/apurv-saktepar-054a17281/)]  
 - Leetcode: [[Apurv Saktepar](https://leetcode.com/u/apurv28/)]  
-- Portfolio: `https://apurv-saktepar.vercel.app`
+- Portfolio: [[Check it out!](https://apurv-saktepar.vercel.app)]
 ---
 
 Thanks for stopping by! 🚀
