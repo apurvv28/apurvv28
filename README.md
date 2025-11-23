@@ -9,17 +9,18 @@ Welcome to my GitHub profile! I’m a **Full Stack Developer** who loves solving
 - My personal portfolio: showcasing projects, skills, & the evolution of me as a developer.  
 - Real-Time CCTV Based Road Accident Detection using Deep Learning — Currently working on the given project topic with my team. Will soon showcase it.
 - Exploring → modern frontend frameworks, backend architecture, and improving performance/security.
-- Preparing for SIH with my incredible team and working on Blockchain-based Biometric Voter Verification System for government of India and ECI.  
-
+- Working on Blockchain-based Biometric Voter Verification System for government of India and ECI.  
+- Current Research on "A multi-sensor, adaptive, fault-tolerant automated irrigation system with intelligent farmer interface". Will try to publish the paper soon.
+  
 ---
 
 ## 🛠️ Tech Stack
 
 Here are the tools and technologies I work with:
 
-| Frontend 👀 | Backend & DB 🔌 | DevOps & Tools ⚙️ | Languages & Others 🧠 |
-|-------------|------------------|----------------------|--------------------------|
-| React, Next.js, HTML, CSS, SASS | Node.js, Express, Python, Firebase / MongoDB / SQL / Postgre | Git, GitHub, Vercel, Docker, CI/CD pipelines | JavaScript / TypeScript, Python ,C ,C++ ,Java , good understanding of OOP & Data Structures |
+| Frontend 👀 | Backend & DB 🔌 | DevOps & Tools ⚙️ | Languages & Others 🧠 | IoT Tools |
+|-------------|------------------|----------------------|--------------------------|-------------------|
+| React, Next.js, HTML, CSS, SASS | Node.js, Express, Python, Firebase / MongoDB / SQL / Postgre | Git, GitHub, Vercel, Docker, CI/CD pipelines | JavaScript / TypeScript, Python ,C ,C++ ,Java , good understanding of OOP & Data Structures | esp32, R307 Module |
 
 ---
 
