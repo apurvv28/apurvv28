@@ -9,11 +9,11 @@
   
   <br/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=DevOps+ENGINEER;SOFTWARE+ENGINEER;AI+%26+ML+ENTHUSIAST" alt="Apurv Saktepar Professional Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=50&lines=DevOps+%26+Cloud+ENTHUSIAST;SOFTWARE+ENGINEER;AI+%26+ML+ENTHUSIAST" alt="Apurv Saktepar Professional Roles" />
   
   <br/>
   
-  <img src="https://img.shields.io/badge/CURRENTLY WORKING ON-SAMAYVIDYA-6A0DAD?style=for-the-badge&labelColor=0D1117&color=6A0DAD" alt="Apurv Saktepar Current Status" />
+  <img src="https://img.shields.io/badge/CURRENTLY WORKING ON-DEVFORGE-6A0DAD?style=for-the-badge&labelColor=0D1117&color=6A0DAD" alt="Apurv Saktepar Current Status" />
 </div>
 
 <p align="center">
@@ -66,7 +66,7 @@ I am **Apurv Saktepar**, a SY Student from Department of Computer Science and En
 ### Backend
 <p align="left">
   <a href="https://skillicons.dev" title="Apurv Saktepar Backend Skills">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,dynamodb" alt="Node.js Python Java Postgres MongoDB" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,fastapi,flask" alt="Node.js Python Java Postgres MongoDB" />
   </a>
 </p>
 
