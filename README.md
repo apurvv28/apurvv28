@@ -80,7 +80,7 @@ I am **Apurv Saktepar**, a SY Student from Department of Computer Science and En
 ### Cloud, DevOps & Tools
 <p align="left">
   <a href="https://skillicons.dev" title="Apurv Saktepar Tools">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,argocd,terraform,aws,gcp" alt="Git Docker Vercel Actions" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,linux,terraform,aws,gcp" alt="Git Docker Vercel Actions" />
   </a>
 </p>
 
