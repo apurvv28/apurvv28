@@ -50,7 +50,7 @@
 
 > **"Turning ideas into scalable applications through code and creativity."**
 
-I am **Apurv Saktepar**, a SY Student from Department of Computer Science and Engineering (Artificial Intelligence), VIT Pune. As a Diploma holder of Computer Engineering from Government Polytechnic Pune, I'm keen towards learning new technologies and keeping me updated through this continuosly upgrading era of IT. Currently working on systems that are proof of my work and help me represent my capabilities towards scalable and AI/ML Powered workflows with DevOps. Check out my work below! 
+I am **Apurv Saktepar**, a TY Student from Department of Computer Science and Engineering (Artificial Intelligence), VIT Pune. As a Diploma holder of Computer Engineering from Government Polytechnic Pune, I'm keen towards learning new technologies and keeping me updated through this continuosly upgrading era of IT. Currently working on systems that are proof of my work and help me represent my capabilities towards scalable and AI/ML Powered workflows with DevOps. Check out my work below! 
 
 ---
 
