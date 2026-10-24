@@ -86,46 +86,6 @@ I am **Apurv Saktepar**, a TY Student from Department of Computer Science and En
 
 ---
 
-## Proof of Work and Projects
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%">
-        <h3>SamayVidya</h3>
-        <p>Agentic AI Powered Dynamic Academic Time table Scheduler for scheduling unbiased timetables for Dept. of CSE-AI, VIT, Pune</p>
-        <img src="https://img.shields.io/badge/TECH-AgenticAI, DBMS, Python, Next-6A0DAD?style=flat-square" alt="StudyGenie" />
-      </td>
-      <td width="50%">
-        <h3>Smart EMR 2.O</h3>
-        <p>Hackathon winning Agentic AI powered Voice-First system that addreses the communication gap between patient and doctors.</p>
-        <img src="https://img.shields.io/badge/TECH-AgenticAI, Python, Next, OCR-6A0DAD?style=flat-square" alt="StudyGenie" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3>Pre-Delinquency Intervention Engine</h3>
-        <p>Multimodel ML approach for early identification and intervention in potential delinquency cases.</p>
-        <img src="https://img.shields.io/badge/TECH-Pandas, LightGBM, XGBoost-6A0DAD?style=flat-square" alt="Multimodel ML" />
-      </td>
-      <td width="50%">
-        <h3>Real Time CCTV Based Accident Detection</h3>
-        <p><b>Focus</b>: Multi Layer Deep Learning Approach for CCTV Based Real time Accident Detection and alerting.</p>
-        <img src="https://img.shields.io/badge/TECH-YOLO_V11, DeepSORT, Temporal Rules-6A0DAD?style=flat-square" alt="Accident Detection" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apurvv28&theme=github-dark&color=6A0DAD&line=FFD700&point=FFFFFF&area=true&area_color=6A0DAD&hide_border=true&bg_color=0D1117" width="100%" alt="Apurv Saktepar GitHub Coding Activity" />
-</div>
-
----
 
 ## Deep Dive & Research
 
